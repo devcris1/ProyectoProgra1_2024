@@ -6,8 +6,6 @@
 
 using namespace std;
 
-using namespace std;
-
 void cuadrado();
 void rectangulo();
 void triangulo();
